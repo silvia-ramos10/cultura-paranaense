@@ -11,5 +11,6 @@ div{
 }
 div h1{ 
     background-color: rgb(240, 187, 112);
+    border-radius: 10cap;
 
 }
