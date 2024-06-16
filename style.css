@@ -9,3 +9,6 @@ body{
 div{
     text-align: center;
 }
+div h1{ 
+    border: 20cap;
+}
